@@ -3,7 +3,7 @@ O objetivo desse projeto é auxiliar uma nutrologa *(fantasia)* a acompanhar o I
 
 ### Para testar é necessário:
 
-- [ ]  Clonar o repositorio atravez de um terminal usando a chave SSH ``git clone https://github.com/GiAlyssa/training_alura_js.git`` ou a chave HTTPS ``git clone https://github.com/GiAlyssa/find_palindromos.git``
+- [ ]  Clonar o repositorio atravez de um terminal usando a chave SSH ``git clone https://github.com/GiAlyssa/training_alura_js.git`` ou a chave HTTPS ``git clone https://github.com/GiAlyssa/training_alura_js.git``
 
 - [ ]  acessar o index.html através do brownser de preferencia através do comando ctrl + o
 
